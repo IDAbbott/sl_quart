@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "sl_quart",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "ce84ad05-5cad-4f8a-bcfc-8ab9580d0b70",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
